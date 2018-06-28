@@ -1,8 +1,8 @@
 import random
 
-print("*********************************")
-print("Bem vindo ao jogo de adivinhação!")
-print("*********************************")
+print("*************************************")
+print("* Bem vindo ao jogo de adivinhação! *")
+print("*************************************")
 
 dificuldade = 0
 print("\n")
@@ -57,6 +57,6 @@ while(nao_acertou):
         nao_acertou = False
 
 print("\n")
-print("************")
-print("Fim do jogo!")
-print("************")
+print("****************")
+print("* Fim do jogo! *")
+print("****************")
